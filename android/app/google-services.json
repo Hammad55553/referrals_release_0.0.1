@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "621558975147",
+    "project_id": "vibesea-d683e",
+    "storage_bucket": "vibesea-d683e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621558975147:android:f58a28aa68941251f3c5ee",
+        "android_client_info": {
+          "package_name": "com.vibesea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621558975147-ff53hnc64qli47la27h0astti1i2mn6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp15W9-bYgPxzTXw9B7Rso4m9-iiAQ5oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621558975147-ff53hnc64qli47la27h0astti1i2mn6h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "621558975147-a81b03iu013pt4dhej2e0bvnbbmerid8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vibesea.vibesea"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621558975147:android:b92344c1be900addf3c5ee",
+        "android_client_info": {
+          "package_name": "com.vibeseanative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621558975147-ff53hnc64qli47la27h0astti1i2mn6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp15W9-bYgPxzTXw9B7Rso4m9-iiAQ5oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621558975147-ff53hnc64qli47la27h0astti1i2mn6h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "621558975147-a81b03iu013pt4dhej2e0bvnbbmerid8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vibesea.vibesea"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
